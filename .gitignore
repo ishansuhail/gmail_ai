@@ -1,0 +1,5 @@
+.venv
+*.json
+*.pickle
+.env
+__pycache__
